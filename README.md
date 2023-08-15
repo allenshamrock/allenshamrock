@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/allenshamrock" target="blank"><img src="https://img.shields.io/twitter/follow/allenshamrock?logo=twitter&style=for-the-badge" alt="allenshamrock" /></a> </p>
 
-- 🌱 I’m currently learning **Bulma**
+- 🌱 I’m currently learning **React Redux**
 
 - 📫 How to reach me **allenshamrock37@gmail.com**
 
