@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,redux,flask,python and nextJs**
 
-- 💬 Ask me about **React,redux,cahkra UI, zustand and javascript**
+- 💬 Ask me about **React,chakra UI, zustand,Redux,Javascript,Python and Flask**
 
 - 📫 How to reach me **allenshamrock37@gmail.com**
 
