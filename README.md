@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/allenshamrock2" target="blank"><img src="https://img.shields.io/twitter/follow/allenshamrock2?logo=twitter&style=for-the-badge" alt="allenshamrock2" /></a> </p>
 
-- 🌱 I’m currently learning **React,redux,flask,python and nextJs**
+- 🌱 I’m currently learning **Python,NextJs**
 
 - 💬 Ask me about **React,chakra UI, zustand,Redux,Javascript,Python and Flask**
 
